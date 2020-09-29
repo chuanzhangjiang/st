@@ -3,3 +3,4 @@ st
 *.orig
 *.o
 *~
+*.rej
