@@ -1,7 +1,5 @@
-config.h.orig
 config.h~
 st
-st.h.orig
-st.o
-x.c.orig
-x.o
+*.orig
+*.o
+*~
