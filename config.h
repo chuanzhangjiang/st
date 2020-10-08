@@ -5,7 +5,10 @@
  *
  * font: see http://freedesktop.org/software/fontconfig/fontconfig-user.html
  */
-static char *font = "Liberation Mono:pixelsize=22:antialias=true:autohint=true";
+// static char *font = "Liberation Mono:pixelsize=22:antialias=true:autohint=true";
+static char *font = "Fira Code Nerd Font Mono:pixelsize=16:antialias=true:autohint=true";
+// static char *font = "FiraMono Nerd Font Mono:pixelsize=16:antialias=true:autohint=true";
+// static char *font = "Source Code Pro for Powerline:pixelsize=22:antialias=true:autohint=true";
 static int borderpx = 2;
 
 /*
